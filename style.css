@@ -186,3 +186,12 @@ body {
     color: white;
     background-color: #E95D0F;
 }
+.results {
+    padding : 2em;
+    text-align: center;
+}
+.results li {
+    font-size: 1.5em;
+    margin: .5em 0;
+    text-align: left;
+}
